@@ -5,6 +5,7 @@ This package is tested on ros2 (galactic)
 ## I.	Make sure that you have the following packages:
 
 **•	Gazebo_ros**
+
 **•	Nav2** 
 
      	sudo apt install ros-galactic-navigation2
