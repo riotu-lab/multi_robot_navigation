@@ -4,7 +4,8 @@ This package is tested on ros2 (galactic)
 
 ## I.	Make sure that you have the following packages:
 
-**•	Gazebo_ros**
+**•	gazebo_ros**
+          sudo apt install ros-galatic-gazebo*
 
 **•	Nav2** 
 
@@ -27,7 +28,7 @@ This package is tested on ros2 (galactic)
 
 ## III.	Changing the number of robots
 
- This is done through the robot_specs.yaml file, located in the config file of the package.
+ This is done through the [robot_specs.yaml](https://github.com/riotu-lab/multi_robot_navigation/blob/main/config/robot_specs.yaml), located in the config file of the package.
 
 ## IV.	Running the code 
 
